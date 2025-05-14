@@ -1,14 +1,14 @@
 # Astro Starter Kit: Basics
 
-Clona el repositorio en tu máquina local:
+1. Clona el repositorio en tu máquina local:
     ```bash
     git clone https://github.com/DaironRV/Django_Prueba_Tecnica.git
     ```
-     Navega al directorio del proyecto:
+2. Navega al directorio del proyecto:
     ```bash
     cd Prueba_Tecnica
     ```
-    Levanta el servidor de Astro
+3. Levanta el servidor de Astro
     ```bash
     npm run dev
     ```
