@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# Como instalar el Proyecto
 
 1. Clona el repositorio en tu máquina local:
     ```bash
