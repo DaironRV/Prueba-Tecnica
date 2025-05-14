@@ -18,14 +18,31 @@ Inside of your Astro project, you'll see the following folders and files:
 
 ```text
 /
-├── public/
+├── .astro/                # Archivos temporales generados por Astro
+├── .vscode/               # Configuración de VS Code
+├── node_modules/          # Dependencias de Node.js
+├── public/                # Archivos estáticos como imágenes y favicon
 │   └── favicon.svg
-├── src/
-│   ├── layouts/
+├── src/                   # Código fuente principal
+│   ├── assets/            # Archivos estáticos y multimedia
+│   ├── components/        # Componentes reutilizables
+│   │   ├── Footer.astro
+│   │   ├── HeaderButton.astro
+│   │   ├── Init.astro
+│   │   ├── Library.astro
+│   ├── layouts/           # Diseños base del proyecto
 │   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+│   ├── pages/             # Páginas individuales
+│   │   └── index.astro
+│   ├── styles/            # Archivos de estilos
+│   │   └── global.css
+├── .gitignore             # Archivos ignorados por Git
+├── astro.config.mjs       # Configuración de Astro
+├── package-lock.json      # Archivo de control de versiones de dependencias
+├── package.json           # Información del proyecto y dependencias
+├── README.md              # Documentación del proyecto
+└── tsconfig.json          # Configuración de TypeScript
+
 ```
 
 To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
