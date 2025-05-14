@@ -13,7 +13,7 @@
     npm run dev
     ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+> Lo que deberias ver
 
 ![just-the-basics](https://github.com/DaironRV/Prueba-Tecnica/blob/main/public/LibreriaSMD.jpg)
 
