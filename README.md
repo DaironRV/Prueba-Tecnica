@@ -10,7 +10,7 @@ npm create astro@latest -- --template basics
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![just-the-basics]()
+![just-the-basics](https://github.com/DaironRV/Prueba-Tecnica/blob/main/public/LibreriaSMD.jpg)
 
 ## 🚀 Project Structure
 
